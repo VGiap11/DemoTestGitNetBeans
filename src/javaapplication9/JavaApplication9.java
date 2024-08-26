@@ -48,7 +48,8 @@ public class JavaApplication9 {
             // Xuất thông tin
             System.out.println("Họ tên: " + ten[i]);
             System.out.println("Điểm: " + diem[i]);
-            System.out.println("Học lực: " + hocLuc);
+            System.out.println("Học lực: " + hocLuc); System.out.println("Học lực: " + hocLuc); System.out.println("Học lực: " + hocLuc);
+             System.out.println("Học lực: " + hocLuc); System.out.println("Học lực: " + hocLuc);
         }
 
         // Sắp xếp danh sách sinh viên theo điểm giảm dần
